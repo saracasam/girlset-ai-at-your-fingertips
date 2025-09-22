@@ -13,7 +13,7 @@ A short, hands-on crash course on **Responsible AI** created for Girlset (Concor
   
 ## Quick start
 1. Download the slides from `slides/`.
-2. Review `activities/Affecting_Machines_activity.md` for facilitation prompts.
+2. Review `activities/` for facilitation prompts.
 3. Credit & attributions (see below).
 
 ## Attributions
