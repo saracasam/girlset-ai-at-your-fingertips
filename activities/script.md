@@ -4,8 +4,7 @@
 ---
 
 ## Slide 1  
-Hi everyone, I’m Sara. I have a bachelor’s degree in Electrical Engineering and a master’s in EdTech.  
-I’m passionate about making technology more ethical and inclusive. I created this workshop for Girlset because I believe everyone, especially young women, deserve a say in how AI is built and used.  
+Introduce yourself and explain why you are passionate about Responsible AI.  
 
 Today isn’t about technical jargon. It’s about asking questions, thinking critically, and exploring how we can shape technology to work better for everyone.  
 
