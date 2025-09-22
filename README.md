@@ -39,5 +39,5 @@ A short, hands-on crash course on **Responsible AI** created for Girlset (Concor
 
 ## License
 - **Original Girlset materials** © 2025 Sara Jameel — licensed under **CC BY 4.0**.  
-- **Adapted content from third parties** is used with permission and may carry different terms. See attributions in `activities/` and the slides.
+- **Adapted content from third parties** is used with permission and may carry different terms. 
 
